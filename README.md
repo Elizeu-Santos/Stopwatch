@@ -4,6 +4,9 @@
   </head>
   <body>
     <h1>React: escrevendo com Typescript</h1>
+    <p align="center">
+    <img src="./src/image/studyLogo.png" alt="logo">
+    </p>
     <p>Este repositório contém o código desenvolvido durante o curso de React: escrevendo com Typescript, oferecido pela Alura.</p>
     <p>O curso tem como objetivo ensinar como escrever aplicações React usando a linguagem TypeScript. O TypeScript é um superset do JavaScript que adiciona recursos de tipagem estática ao JavaScript, tornando-o mais robusto e menos propenso a erros.</p>
     <p>O curso é dividido em diversos módulos, abrangendo desde o básico do TypeScript até a construção de uma aplicação completa usando React e TypeScript. Alguns dos tópicos abordados incluem:</p>
