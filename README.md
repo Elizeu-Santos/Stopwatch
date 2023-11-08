@@ -5,7 +5,7 @@
   <body>
     <h1>React: escrevendo com Typescript</h1>
     <p align="center">
-    <a href="https://fusion-restaurant.netlify.app/" target="_blank">
+    <a href="https://elizeu-stopwatch.netlify.app/" target="_blank">
         <img src="./src/image/studyLogo.png" alt="logo">
     </a>
     </p>
