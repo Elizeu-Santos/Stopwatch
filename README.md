@@ -5,7 +5,9 @@
   <body>
     <h1>React: escrevendo com Typescript</h1>
     <p align="center">
-    <img src="./src/image/studyLogo.png" alt="logo">
+    <a href="https://fusion-restaurant.netlify.app/" target="_blank">
+        <img src="./src/image/studyLogo.png" alt="logo">
+    </a>
     </p>
     <p>Este repositório contém o código desenvolvido durante o curso de React: escrevendo com Typescript, oferecido pela Alura.</p>
     <p>O curso tem como objetivo ensinar como escrever aplicações React usando a linguagem TypeScript. O TypeScript é um superset do JavaScript que adiciona recursos de tipagem estática ao JavaScript, tornando-o mais robusto e menos propenso a erros.</p>
